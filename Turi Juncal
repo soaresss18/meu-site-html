@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    
+    <meta charset="UTF-8">
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <title>Turi Juncal</title>
+
+    <link rel="icon" type="image/x-icon" href="https://lh3.googleusercontent.com/pw/AP1GczMfeu-nvWGZ6myoXQrqqky43vPwxhDQWvCAfDm6tbonaXSb0cGgau_Zi7JF1zrzaVvobjbI1thATULxuijPS4dOiLnbDmyauJdoQGslgaYJIeVl6ywrbtMgzwOvA6KK6zUZhIS7jiqFw3YOxlmbV595=w388-h389-s-no-gm?authuser=0">
+    
+    
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            padding: 20px;
+            text-align: justify;
+            text-align-last:center;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: justify;
+            text-align: center;
+            padding: 1em 0;
+        }
+    </style>
+</head>
+
+
+
+<body>
+
+    <header>
+      
+
+        <h1>TuriJuncal</h1>
+            <h1 style="font-size:0.9vw"> </h1>
+
+       <a href="tel:244 471 091" class="phone-button">
+
+            <i class="fas fa-phone"></i> Ligue para nós 
+       </a> 
+    
+
+<style>
+   
+    body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header {
+    background-color: #282c34;
+    color: white;
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 2em;
+    text-align: center;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+.phone-button {
+    background-color: #28a745;
+    color: white;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    font-size: 1em;
+}
+
+.phone-button i {
+    margin-right: 0.5em;
+    font-size: 1.5em;
+}
+
+.phone-button:hover {
+    background-color: #218838;
+}
+
+footer {
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+
+</style>
+
+
+
+
+
+    </header>
+
+
+<div class="container">
+    <div class="image-wrapper">
+        <a href="https://www.freguesia-juncal.pt/">
+            <img src="https://scontent.flis9-2.fna.fbcdn.net/v/t1.6435-9/90948922_10157408055129261_5484014715426308096_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=osRSHfO2xgMQ7kNvgGoxOmB&_nc_ht=scontent.flis9-2.fna&oh=00_AYD3dY_81Iz6OW_2fpQ3cHd1fziH_sIjd-neMUxIO9gGuQ&oe=6686DAE1" width="1500" alt="Brasão da Freguesia do Juncal">
+        </a>
+    </div>
+</div>
+
+<style>
+    .container {
+        text-align: center; 
+    }
+
+    .image-wrapper {
+        display: inline-block; 
+    }
+</style>
+
+
+
+
+<section>
+    
+    <h1><p> Juncal </p></h1>
+
+</section>
+
+
+
+<section>
+<h1
+        
+        style="font-size:0.9vw">
+        <span style="font-weight: normal">
+        <font color="black">
+
+
+    <p> O Juncal, uma pitoresca vila situada no concelho de <a href="https://www.municipio-portodemos.pt/"> <b>Porto de Mós</a> </b>, Portugal, é um tesouro escondido que encanta os visitantes com a sua beleza tranquila e charme rural. Rodeada por uma paisagem verdejante, esta localidade preserva a autenticidade da vida no campo, oferecendo uma fuga serena da agitação urbana. </p>
+
+    No coração do Juncal, o seu núcleo histórico revela ruas estreitas e casario tradicional, com fachadas de cores vivas que refletem a identidade local. As casas de pedra e as típicas chaminés conferem ao Juncal uma atmosfera acolhedora e nostálgica, transportando os visitantes para tempos passados. 
+
+    A praça principal é o ponto de encontro da comunidade, onde os habitantes locais se reúnem para trocar histórias e experiências. O comércio local exibe produtos regionais, desde artesanato a iguarias gastronómicas que revelam a riqueza da tradição local.  
+
+     A natureza desempenha um papel fundamental na beleza do Juncal, com a paisagem circundante a oferecer oportunidades para caminhadas relaxantes. Os campos verdejantes e os bosques nas proximidades convidam os visitantes a explorar a biodiversidade local e a desfrutar de momentos de paz. 
+
+    A igreja, como muitas vezes acontece em localidades portuguesas, destaca-se como um ponto de referência cultural e religiosa. A arquitetura singular e os detalhes artísticos contam a história da devoção local e da passagem do tempo.
+
+    No Juncal, as tradições são celebradas ao longo do ano, com festivais e eventos que unem a comunidade. A gastronomia é uma parte integrante destas celebrações, onde os sabores autênticos da região são apreciados em conjunto, fortalecendo laços e mantendo viva a cultura local. 
+    
+    <p>Assim, o Juncal, com a sua beleza rural, herança histórica e comunidade calorosa, é mais do que uma vila, é um refúgio encantador que convida os visitantes a desacelerar, apreciar a simplicidade da vida e mergulhar na riqueza cultural que esta joia portuguesa tem para oferecer.  </p> 
+</h1>
+</section>
+
+   
+
+    <section>
+        
+        <h2> <i> Cruzeiro</h2> </i>
+       
+         <p>Foi, ao longo de vários anos local de peregrinações no dia da festa de Stº Isidro padroeiro dos campos e dos agricultores. Ali rezou-se devotamente e invocou-se a proteção desse Santo para as culturas e gados, fonte de riqueza de muitos juncalenses.</p>
+
+          <p>    Mas <a href="https://www.google.com/maps/search/cruzeiro+/@39.6057413,-8.9080455,17.25z?entry=ttu"> <b> o cruzeiro </a> </b> não é apenas um local de oração. Dali desfruta-se a mais bela vista panorâmica do Juncal, abarca-se duma só vez a Igreja Paroquial, bem como o imenso casario desta bela vila. </p>
+
+         <a href="https://www.municipio-portodemos.pt/pages/1384?poi_id=443"> <img src="https://www.municipio-portodemos.pt/thumbs/cmportomos/uploads/content_image/image/370/cruzeiro2_1_1024_2500.jpg" alt="Destino 1"> </a>
+
+        <p>Olhando para o outro lado desfruta-se uma bela paisagem avistando-se as localidades vizinhas, as fábricas de cimento de Pataias e Maceira, o longo pinhal quase até ao mar. </p>
+        
+        <p>    Ali respiramos o ar puro dos campos e ouvimos o canto dos pássaros apenas entrecortado pelo latir dos cães, ao longe. Dali pode-se ver o fruto do trabalho de tantos que, por suas mãos, transformaram o suor em pão. Ali consegue-se o repouso do corpo e do espírito tantas vezes perturbado pela agitação do dia-a-dia. </p>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1827.8648480030074!2d-8.909843892320842!3d39.602655089196844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd18a0d967fee98b%3A0x4a219a45d422ac6d!2sR.%20do%20cruzeiro%2C%20Juncal!5e0!3m2!1spt-PT!2spt!4v1717531044101!5m2!1spt-PT!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <h2 style="font-size:15px;"> <font color="red"> Localização do Cruzeiro </h2> </font>
+
+</section>
+
+    
+
+    <section>
+        <h2> <i> Parque Verde </h2> </i>
+        
+        <p> O <a href="https://www.google.com/maps/place/Parque+Verde+do+Juncal/@39.6031918,-8.8996747,18.25z/data=!4m6!3m5!1s0xd18a12a941a60c1:0x1d6fb68a051c26df!8m2!3d39.603206!4d-8.8992999!16s%2Fg%2F11rr8cvyfl?entry=ttu"> <b> Parque Verde do Juncal </a> </b> é um refúgio encantador que combina a beleza natural com espaços de lazer, oferecendo uma experiência única aos visitantes. Localizado em um ambiente tranquilo e pitoresco, este oásis verde proporciona um escape rejuvenescedor da agitação urbana. </p>
+
+        <a href="https://www.municipio-portodemos.pt/pages/1291?news_id=574"> <img src="https://www.municipio-portodemos.pt/cmportomos/uploads/news/image/574/562_5u47u5599.jpg" alt="Destino 2"> </a>
+        
+        <p> Ao adentrar o Parque Verde do Juncal, somos recebidos por uma exuberante vegetação, com árvores majestosas que oferecem sombras acolhedoras e trilhas serpenteantes que convidam à exploração. A atmosfera serena é acentuada pelo suave murmurar de riachos e pela melodia dos pássaros que habitam a área, criando uma sinfonia natural que acalma os sentidos. </p>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d890.2062481735637!2d-8.899526043574353!3d39.60319037648452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd18a12a941a60c1%3A0x1d6fb68a051c26df!2sParque%20Verde%20do%20Juncal!5e0!3m2!1spt-PT!2spt!4v1717531011256!5m2!1spt-PT!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+         <h2 style="font-size:15px;"> <font color="red"> Localização do Parque Verde </h2> </font>
+
+</section>
+
+    
+
+    <section>
+        <h2> <i> Igreja Paroquial de São Miguel</h2> </i>
+        <a href="https://www.leiria-fatima.pt/sites/paroquias/juncal/"> <img src="https://www.leiria-fatima.pt/wp-content/uploads/2019/11/Igreja-do-Juncal-1024x482.jpg" alt="Destino 3"> </a>
+        
+        <p> A <a href="https://www.google.com/maps/place/Igreja+de+S%C3%A3o+Miguel+Arcanjo+(Juncal)/@39.6024169,-8.9023574,17.75z/data=!4m10!1m2!2m1!1sigreja+do+juncal!3m6!1s0xd18a0e0b90ce547:0xe155f6f7433f4667!8m2!3d39.6028852!4d-8.9008861!15sChBpZ3JlamEgZG8ganVuY2FskgEPY2F0aG9saWNfY2h1cmNo4AEA!16s%2Fg%2F11crzlg18h?entry=ttu"> <b> Igreja do Juncal</a> </b>, imponente e cheia de história, destaca-se como um marco cultural e religioso na região. Com sua arquitetura única e fachada elegante, a igreja torna-se uma presença marcante, adicionando um toque de espiritualidade ao cenário local. </p>
+        
+        <p> Ao longo do tempo, a Igreja do Juncal tem sido palco de celebrações importantes e eventos comunitários, unindo as pessoas em torno de sua fé compartilhada. Seja durante as festividades religiosas ou nas simples missas dominicais, a igreja desempenha um papel vital na vida espiritual e social da comunidade local. </p>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1537.0391577036853!2d-8.901049716545526!3d39.60291823675359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd18a0e0b90ce547%3A0xe155f6f7433f4667!2sIgreja%20de%20S%C3%A3o%20Miguel%20Arcanjo%20(Juncal)!5e0!3m2!1spt-PT!2spt!4v1717530953133!5m2!1spt-PT!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+         <h2 style="font-size:15px;"> <font color="red"> Localização da Igreja</h2> </font>
+
+</section>
+
+       
+
+
+ <section>
+        <h2> <i> Quinta Júlia Dos Ovos </h2> </i>
+
+       <p> Localizada na pitoresca vila do Juncal, a <a href="https://www.google.com/maps/place/Quinta+Júlia+dos+Ovos/@39.6013767,-8.894759,16.75z/data=!4m6!3m5!1s0xd18a0e2cc4eb179:0xb7b3500d6c4b3e6a!8m2!3d39.6013501!4d-8.8916195!16s%2Fg%2F11c1xny_yp?entry=ttu"> <b> "Quinta Júlia dos Ovos"</a> </b> é um verdadeiro refúgio de encantos e possibilidades. Com uma atmosfera que combina beleza natural e serviço excepcional, esta quinta oferece um cenário idílico para celebrações memoráveis e momentos de lazer inesquecíveis. </p>
+
+        <a href="https://www.quintajuliadosovos.com"> <img src="https://www.quintajuliadosovos.com/wp-content/uploads/2020/08/quinta_julia_dos_ovos_exterior-41_websize.jpg" alt="Destino 3" width="800" > </a>
+
+     
+        <p> No coração da natureza, a "Quinta Júlia dos Ovos" é muito mais do que um simples espaço para eventos, é um destino de sonho. Aqui, a serenidade do lago envolve os visitantes, convidando-os a embarcar em passeios de barco que exploram as águas tranquilas,  enquanto abraçam a paisagem, emoldurando um cenário de beleza indescritível. </p>
+
+
+
+        <img src="https://1.bp.blogspot.com/-E6wmu8CHHlg/WUAYqCOfi6I/AAAAAAAAM3M/2hSbeec1OfkPD334kqaj0xpoXgtUzTqrQCLcB/s1600/14.jpg" width="800">
+
+       <p> <b> Além disso, para aqueles que desejam prolongar sua estadia neste paraíso, a "Quinta Júlia dos Ovos" disponibiliza a opção de aluguel de uma casa, onde cada detalhe é cuidadosamente projetado para proporcionar conforto e tranquilidade aos hóspedes. </p> </b>
+
+
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.14719130995!2d-8.891807257312392!3d39.60136660456002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd18a0e2cc4eb179%3A0xb7b3500d6c4b3e6a!2sQuinta%20J%C3%BAlia%20dos%20Ovos!5e0!3m2!1spt-PT!2spt!4v1717530878082!5m2!1spt-PT!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <h2 style="font-size:15px;"> <font color="red"> Localização da Quinta</h2> </font>
+
+</section>
+
+
+
+
+<section>
+       <h1><i>Capela de São Miguel do Peral</h1></i>
+
+<p>A Capela de São Miguel do Peral, situada na vila do Juncal, é um tesouro histórico e religioso. Construída em um local de beleza natural ímpar, esta capela tem uma presença marcante na comunidade local e atrai visitantes pela sua simplicidade e beleza.</p>
+
+<p>Consagrada a São Miguel Arcanjo, a capela oferece um ambiente de paz e devoção. O seu interior, adornado com elementos religiosos tradicionais, convida os visitantes a refletir e a contemplar.</p>
+
+<a href="https://www.municipio-portodemos.pt/pages/1384?poi_id=444"> <img src="https://visite.portodemos.pt/imgcrop/cmportodemos-turismo/uploads/geo_article/image/150/1_foto_img_2465edi_1_600_400.jpg" alt="Capela de São Miguel do Peral" width="800"> </a>
+
+<p>Localizada em um cenário rural e tranquilo, a Capela de São Miguel do Peral é um refúgio espiritual e um marco histórico na região. A sua arquitetura simples e harmoniosa combina perfeitamente com a paisagem ao redor, proporcionando uma experiência única para quem a visita.</p>
+
+
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3073.815947923505!2d-8.913833487529116!3d39.60882837051284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd18a1de86bc089b%3A0x6f7b3c72f9a3f6b7!2sCapela%20de%20S%C3%A3o%20Miguel%20do%20Peral!5e0!3m2!1spt-PT!2spt!4v1717530576045!5m2!1spt-PT!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <h2 style="font-size:15px;"> <font color="red"> Localização da Capela</h2> </font>
+
+</section>
+
+
+
+
+<section>
+        <h1 style="text-align: justify;">
+        <span  style="font-size:1vw">
+
+
+
+
+        Partilhe esta descoberta com os seus amigos e familiares. Deixe-os conhecer a magia e a autenticidade do Juncal, um local que cativa quem o visita com o seu charme único. Estamos ansiosos por receber uma nova visita. O Juncal estará sempre de braços abertos para lhe oferecer uma experiência memorável. 
+        <p> Venha explorar, venha descobrir e venha partilhar o Juncal com o mundo!</p> 
+        <p> Partilhe o Juncal, partilhe a beleza! </p>
+
+    </h1>
+</section>
+
+
+<section>
+    
+      <button class="instagram-btn" onclick="window.open('https://www.instagram.com/___s.o.a.r.e.s__/#', '_blank')">
+               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" class="instagram-icon" width="30" > Sigam-me no Instagram !
+            </button>
+</section>
+
+
+<style>
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header {
+    background-color: #282c34;
+    color: white;
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 2em;
+    text-align: center;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+.instagram-button, .instagram-btn {
+    background-color: #e1306c;
+    color: white;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    font-size: 1em;
+}
+
+.instagram-button img, .instagram-btn img {
+    margin-right: 0.5em;
+    width: 20px; 
+    height: 20px; 
+}
+
+.instagram-button:hover, .instagram-btn:hover {
+    background-color: #c2205e;
+}
+
+footer {
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+</style>
+
+
+
+
+
+
+
+
+<section>
+    
+ <h1> O que achou da visita ?</h1>
+ <form action="#" method="post">
+        <label for="comment">Comentário:</label>
+        <textarea id="comment" name="comment" rows="4" cols="50"></textarea>
+        <input type="submit" name="enviar">
+    </form>
+</section>
+
+
+
+    
+
+
+    <footer>
+        <p>&copy; 2024 Site de Turismo</p>
+        <p>&copy; Nuno Soares</p>
+    </footer>
+
+</body>
+</html>
